@@ -6,4 +6,4 @@ Designing & Developing [MedicoTutoring](https://www.medicotutoring.com);<br>
 
 - ⚙️ I use : `Figma`, `React.js`, `Next.js`, `.py`, `.js`, `.html`, `.css`,`.ai`
 - 💅 Designed: ComingSoon…
-- 🔍 I enjoy reading, doing Calesthenics & Bouldering
+- 🔍 I enjoy reading, doing Calesthenics
