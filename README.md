@@ -2,7 +2,7 @@
 
 Fulltime CS & Maths Student and a Freelance Software Engineer ☾
 
-Designing & Developing [MedicoTutoring](https://www.medicotutoring.com);<br>
+Designing & Developing [MedicoTutoring](https://medico-virid.vercel.app);<br>
 
 - ⚙️ I use : `Figma`, `React.js`, `Next.js`, `.py`, `.js`, `.html`, `.css`,`.ai`
 - 💅 Designed: ComingSoon…
