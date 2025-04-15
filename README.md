@@ -2,8 +2,12 @@
 
 Fulltime CS & Maths Student and a Freelance Software Engineer ☾
 
-Designing & Developing [questly](https://questly.fyi), [MedicoTutoring](https://medico-virid.vercel.app)<br>
+Designing & Developing  Leen<br>
 
 - ⚙️ I use : `Figma`, `React.js`, `Next.js`, `.py`, `.js`, `.html`, `.css`,`.ai`
-- 💅 Designed: [MedicoTutoring](https://medico-virid.vercel.app)
+- 💅 Designed: [Yield-Net](https://github.com/Yield-Net/full-stack), [Dent Assist](https://github.com/Shawarmaa/dent-assist), [MedicoTutoring](https://medico-virid.vercel.app)
 - 🔍 I enjoy reading, doing Calesthenics
+  
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/muhammadabdull/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
