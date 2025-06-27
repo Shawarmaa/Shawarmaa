@@ -1,16 +1,24 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Shawarmaa&label=Profile%20views&color=0e75b6&style=flat)
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-Full-time CS & Maths student and freelance software engineer ☾  
+### Yo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-Currently designing and building **Leen**
+Full-time CS & Maths student
 
-- ⚙️ I work with: `React.js`, `Next.js`, `React Native`, `Expo`, `FastAPI`, `PostgreSQL`, `Supabase`, `Python`, `Typescript`, `JavaScript`, `HTML/CSS`, `Stripe`
-- 🛠️ Projects: [Yield-Net](https://github.com/Yield-Net/full-stack), [Dent Assist](https://github.com/Shawarmaa/dent-assist), [MedicoTutoring](https://medico-virid.vercel.app)
-- 📚 Outside of work: reading and calisthenics
+Currently working on **state-of-the-art projects**(under NDA) where we do code reviews, **Leen**(i review my own code here tho) and **BidScents**
 
-### Socials
+### Tech Stack
+`React.js` `Next.js` `React Native` `Expo` `FastAPI` `PostgreSQL` `Supabase` `Python` `TypeScript` `JavaScript` `HTML/CSS` `Stripe` `Plaid`
 
+### Public Projects
+These are some of my older, publicly available projects:
+- **[Yield-Net](https://github.com/Yield-Net/full-stack)**
+- **[Dent Assist](https://github.com/Shawarmaa/dent-assist)**
+- **[MedicoTutoring](https://medico-virid.vercel.app)**
+- **[BiggerNumbers](https://github.com/Shawarmaa/BiggerNumbers)**
+
+*My current work involves more advanced architectures and production-scale applications, but due to confidentiality agreements, I can only showcase these earlier projects.*
+
+### Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammadabdull/" target="_blank" rel="noreferrer">
     <picture>
@@ -20,3 +28,5 @@ Currently designing and building **Leen**
     </picture>
   </a>
 </p>
+
+This is gpt generated!
