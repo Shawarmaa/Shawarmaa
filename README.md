@@ -6,8 +6,4 @@
 `React.js` `Next.js` `React Native` `Expo` `FastAPI` `PostgreSQL` `Supabase` `Python` `TypeScript` `JavaScript` `HTML/CSS` `Stripe` `Plaid`
 
 ### These are some of my older, publicly available projects:
-**[Yield-Net](https://github.com/Yield-Net/full-stack)** | **[Dent Assist](https://github.com/Shawarmaa/dent-assist)** | **[MedicoTutoring](https://medico-virid.vercel.app)** | **[BiggerNumbers](https://github.com/Shawarmaa/BiggerNumbers)** | **[PathfindingVisualiser](https://github.com/Shawarmaa/Pathfinding-Visualiser)** 
-
-*My current work involves more advanced architectures and production scale applications, but due to confidentiality agreements, I can only showcase these earlier projects.*
-
-
+**[NuroPilot](https://github.com/NuroPilot/frontend)** | **[Yield-Net](https://github.com/Yield-Net/full-stack)** | **[Dent Assist](https://github.com/Shawarmaa/dent-assist)** | **[MedicoTutoring](https://medico-virid.vercel.app)** | **[BiggerNumbers](https://github.com/Shawarmaa/BiggerNumbers)** | **[PathfindingVisualiser](https://github.com/Shawarmaa/Pathfinding-Visualiser)** 
